@@ -5,7 +5,7 @@
  - React-router-dom: Easily on implement client-side routing, allowing for navigation and rendering of different views based on the URL
 
 # IDE Used: 
- - Visual studio code :a highly popular and widely adopted code editor known for its extensive features and rich ecosystem.
+ - Visual studio code: a highly popular and widely adopted code editor known for its extensive features and rich ecosystem.
 
 # Set up the project 
 Requirement
